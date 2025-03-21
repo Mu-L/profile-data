@@ -23,7 +23,7 @@ For prefilling, the profile employs EP32 and TP1 (in line with DeepSeek V3/R1 â€
 
 ### Decoding
 
-[[profile_data]](decode.json) (Not ready, release soon)
+[[profile_data]](decode.json)
 
 ![decode](assets/decode.jpg)
 
